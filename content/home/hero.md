@@ -9,7 +9,7 @@ weight = 3
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media =  "hero_bg.png"
+hero_media =  "feaggle.png"
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
