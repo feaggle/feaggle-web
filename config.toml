@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = "feaggle"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-131300914-1"
+googleAnalytics = "UA-136309766-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
