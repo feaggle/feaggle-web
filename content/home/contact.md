@@ -1,14 +1,13 @@
 +++
 # Contact widget.
-widget = "contact"
-active = false
-date = 2016-04-20T00:00:00
+widget = "contact"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 
 title = "Contact"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 70
+weight = 130
 
 # Automatically link email and phone?
 autolink = true
@@ -19,4 +18,3 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-
