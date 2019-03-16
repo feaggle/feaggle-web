@@ -22,9 +22,21 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "scroll"
+  icon = "ring"
   icon_pack = "fas"
-  name = "Simple"
-  description = "Use the tools that you already know to implement your application. It's only based on standard features of ES6 like classes and Promises."
+  name = "Painless"
+  description = ""
+
+[[feature]]
+  icon = "space-shuttle"
+  icon_pack = "fas"
+  name = "Fast"
+  description = ""
+
+[[feature]]
+  icon = "layer-group"
+  icon_pack = "fas"
+  name = "scalable"
+  description = ""
 
 +++

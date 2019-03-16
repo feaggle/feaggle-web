@@ -1,4 +1,4 @@
-# feaggle-web
+# Feaggle Page
 
 ## Getting Started
 

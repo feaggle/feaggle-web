@@ -14,4 +14,4 @@ image = ""
 caption = "Tutorial"
 +++
 
-We are always improving the documentation, but we can offer the following tutorials about tarant. 
+We are always improving the documentation, but we can offer the following tutorials about feaggle. 
