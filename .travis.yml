@@ -1,0 +1,23 @@
+sudo: true
+dist: trusty
+
+install:
+  - sudo apt-get --yes install snapd
+  - sudo snap install hugo
+
+script:
+  - /snap/bin/hugo 
+
+deploy:
+  provider: pages
+  local-dir: public
+  repo: feaggle/feaggle.github.com
+  target-branch: master
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  fqdn: www.feaggle.org
+  committer-from-gh: true
+  keep-history: true
+  on:
+    branch: master
+    
