@@ -9,16 +9,21 @@
   weight = 1
 
 [[main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 2
+
+[[main]]
   name = "Tutorial"
   url = "/tutorial/"
-  weight = 4
+  weight = 3
 
 [[main]]
   name = "<i class='fab fa-github'></i>"
-  url = "https://github.com/feaggle"
+  url = "https://github.com/feaggle/feaggle"
   weight = 6
 
-# Link to a PDF of your resume/CV from the 
+# Link to a PDF of your resume/CV from the
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"

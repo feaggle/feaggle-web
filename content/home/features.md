@@ -22,21 +22,21 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "ring"
+  icon = "smile-wink"
   icon_pack = "fas"
   name = "Painless"
-  description = ""
+  description = "With a basic configuration you can start rolling out your features without fear of breaking production code."
 
 [[feature]]
   icon = "space-shuttle"
   icon_pack = "fas"
   name = "Fast"
-  description = ""
+  description = "No reflection. No magic classes. Just basic Java that can be used easily on Kotlin or Scala."
 
 [[feature]]
   icon = "layer-group"
   icon_pack = "fas"
-  name = "scalable"
-  description = ""
+  name = "Scalable"
+  description = "Start with a configuration that is your code, and move to the database easily, without big changes."
 
 +++

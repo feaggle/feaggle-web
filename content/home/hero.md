@@ -48,11 +48,11 @@ hero_media =  "feaggle.png"
 #  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 +++
 
-Feature Toggles as a service
+feature toggles made easy.
 
-<a class="github-button" href="https://github.com/feaggle/feaggle-server" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
+<a class="github-button" href="https://github.com/feaggle/feaggle" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
 
-<!-- <a href="./tutorial/getting-started/" class="btn btn-outline-light btn-lg">
-  <i class="fas fa-book"></i> Quick Start
-</a> -->
+<a href="./tutorial/getting-started/" class="btn btn-outline-dark btn-lg" style="text-decoration: none">
+  <b class="fas fa-book"></b><b> Quick Start</b>
+</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
