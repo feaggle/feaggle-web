@@ -15,7 +15,7 @@ weight = 40
 
 +++
 
-Feaggle is just a library, lightweight, and simple.
+Feaggle is just a library: lightweight, and simple.
 
 ```java
 var feaggle = Feaggle.load(
