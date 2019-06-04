@@ -37,6 +37,6 @@ weight = 7
   icon = "layer-group"
   icon_pack = "fas"
   name = "Scalable"
-  description = "Start with a configuration that is your code, and move to the database easily, without big changes."
+  description = "Start with a configuration as code, and move to the database easily."
 
 +++

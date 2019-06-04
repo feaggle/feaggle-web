@@ -7,26 +7,24 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Ready!"
+title = "Evolves with you"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 42
 
 +++
 
-Feaggle is just a library: lightweight, and simple.
+[feaggle-jdbc](https://github.com/feaggle/feaggle-jdbc) allows you to have toggles that can be hot-reloaded, just by changing the configuration.
 
 ```java
-var feaggle = Feaggle.load(
-    BasicDriverLoader.builder()
-            .releases(BasicReleaseDriver.builder()
-                     .release("my-release!", true)
-                     .build()
-    )
+Feaggle feaggle = Feaggle.load(
+    JdbcDriver.from(yourJdbcConnection)
+        .defaults()
+        .build()
 );
 
 feaggle.release("my-release!").isEnabled();
 ```
 
-If you want to learn more about feaggle, feel free to take a look at the [Getting Started](./tutorial/getting-started/) guide.
+If you want to learn more about feaggle-jdbc, feel free to take a look at the [project documentation](https://github.com/feaggle/feaggle-jdbc).

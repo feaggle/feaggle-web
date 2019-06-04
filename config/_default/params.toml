@@ -9,7 +9,7 @@ day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "playfair"
+font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "feature toggles made easy."
@@ -27,7 +27,7 @@ logo = "logo_name.png"
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["java"]  # Add support for highlighting additional languages
+highlight_languages = ["java", "groovy"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable global LaTeX math rendering?
