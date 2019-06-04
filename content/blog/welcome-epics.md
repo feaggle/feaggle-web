@@ -78,5 +78,8 @@ We believe that epics will be a game changer on how we do Continuous Deliver, as
 without sacrificing ease. You can start using epics in feaggle 2.0.0: despite the major version, it's backwards compatible to feaggle 1.x
 and feaggle-jdbc!
 
-Read more information on how to use feaggle in the [the feaggle repository](https://github.com/feaggle/feaggle) and remember that if you have any feedback or suggestion,please fill us an issue so we can keep track of them 😍.
+Read more information on how to use feaggle in the [the feaggle repository](https://github.com/feaggle/feaggle). You can also check the 
+[Getting Started](https://www.feaggle.org/tutorial/getting-started/) guide for more information about how to use feaggle in your project.
+
+And remember that if you have any feedback or suggestion,please fill us an issue so we can keep track of them 😍.
 
